@@ -1,5 +1,5 @@
 
-## 🌐 Find me on:
+## 🌐 Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahryar-adil-khan) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahryaradil_) 
 
@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats-tau-taupe-31.vercel.app/api/top-langs/?username=shahryaradil&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
