@@ -21,7 +21,7 @@
 ‎‎
 <br/>
 ‎‎ 
-## 📊 GitHub Stats:
+## 📊 GitHub stats
 
 [![GitHub stats](https://github-readme-stats-tau-taupe-31.vercel.app/api?username=shahryaradil&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ‎
